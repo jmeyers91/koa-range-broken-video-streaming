@@ -1,0 +1,10 @@
+{
+  "name": "koa-range-broken-video-streaming",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.1",
+    "koa-range": "^0.3.0"
+  }
+}
